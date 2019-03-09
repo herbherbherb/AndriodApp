@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.3] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\react-native-0.57.3.aar\188f23dcd06bec31d196abb99935e812\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\547758ef229c39d25f6ffe9274a2cc24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\53bdb98d65b0689a94458cc3f0e3ad6b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2fa7a107b24ab922e55b0043aa4fd1ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\68e8e85d51344a6ea90687c8358c6287\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9c8dffa1bce1236531597a98844aa7a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\08818fd08b986261d327ecd242b8a546\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0a26c433f8938251301fc4f844e0d2cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\bb64259ac6b7df7a2d29c63ea2d084e9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\395e86318c625452de86ad9f8f4edf59\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\038e476884942c9a3b7136bf82c49c13\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b225a0b9372978ac0d33b4d237682d32\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\7b8516f1d05667995e1e4f9b325bd443\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\216a29e824e89470602761c3e325ef18\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0c426546498d89fb2b685594af40f207\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1628fe49a567ffe04cb467065858acb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b4390e53e58fff675c0a29da92edf060\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\8de2120318a46c0c945136b3d286c3e6\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b0d1813f2f7f1f3ae366a513716b0ae\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd255d951a45fe54b66deb6a5b28643a\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:2:5-33
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.3] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\react-native-0.57.3.aar\188f23dcd06bec31d196abb99935e812\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.3] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\react-native-0.57.3.aar\188f23dcd06bec31d196abb99935e812\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.3] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\react-native-0.57.3.aar\188f23dcd06bec31d196abb99935e812\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.3] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\react-native-0.57.3.aar\188f23dcd06bec31d196abb99935e812\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\216a29e824e89470602761c3e325ef18\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\216a29e824e89470602761c3e325ef18\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0c426546498d89fb2b685594af40f207\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0c426546498d89fb2b685594af40f207\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.awesomeproject.MainActivity
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.3] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\react-native-0.57.3.aar\188f23dcd06bec31d196abb99935e812\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.3] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\react-native-0.57.3.aar\188f23dcd06bec31d196abb99935e812\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\547758ef229c39d25f6ffe9274a2cc24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\547758ef229c39d25f6ffe9274a2cc24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\53bdb98d65b0689a94458cc3f0e3ad6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\53bdb98d65b0689a94458cc3f0e3ad6b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2fa7a107b24ab922e55b0043aa4fd1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\2fa7a107b24ab922e55b0043aa4fd1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\68e8e85d51344a6ea90687c8358c6287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\68e8e85d51344a6ea90687c8358c6287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9c8dffa1bce1236531597a98844aa7a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9c8dffa1bce1236531597a98844aa7a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\08818fd08b986261d327ecd242b8a546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\08818fd08b986261d327ecd242b8a546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0a26c433f8938251301fc4f844e0d2cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\0a26c433f8938251301fc4f844e0d2cb\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\bb64259ac6b7df7a2d29c63ea2d084e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\bb64259ac6b7df7a2d29c63ea2d084e9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\395e86318c625452de86ad9f8f4edf59\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\395e86318c625452de86ad9f8f4edf59\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\038e476884942c9a3b7136bf82c49c13\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\038e476884942c9a3b7136bf82c49c13\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b225a0b9372978ac0d33b4d237682d32\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\b225a0b9372978ac0d33b4d237682d32\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\7b8516f1d05667995e1e4f9b325bd443\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\7b8516f1d05667995e1e4f9b325bd443\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\216a29e824e89470602761c3e325ef18\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\216a29e824e89470602761c3e325ef18\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1628fe49a567ffe04cb467065858acb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\a1628fe49a567ffe04cb467065858acb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b4390e53e58fff675c0a29da92edf060\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b4390e53e58fff675c0a29da92edf060\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\8de2120318a46c0c945136b3d286c3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\8de2120318a46c0c945136b3d286c3e6\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b0d1813f2f7f1f3ae366a513716b0ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0b0d1813f2f7f1f3ae366a513716b0ae\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd255d951a45fe54b66deb6a5b28643a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\herbe\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd255d951a45fe54b66deb6a5b28643a\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\herbe\CS242\fa18-cs242-assignment3\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
